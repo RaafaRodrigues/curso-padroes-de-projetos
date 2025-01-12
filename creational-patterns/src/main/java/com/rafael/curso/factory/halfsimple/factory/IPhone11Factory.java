@@ -1,6 +1,6 @@
 package com.rafael.curso.factory.halfsimple.factory;
 
-import com.rafael.curso.factory.halfsimple.factory.enums.IPhoneType;
+import com.rafael.curso.factory.halfsimple.model.enums.IPhoneType;
 import com.rafael.curso.factory.halfsimple.model.IPhone;
 import com.rafael.curso.factory.halfsimple.model.IPhone11;
 import com.rafael.curso.factory.halfsimple.model.IPhone11Pro;

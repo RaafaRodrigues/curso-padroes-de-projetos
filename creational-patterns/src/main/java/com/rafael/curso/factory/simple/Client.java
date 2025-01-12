@@ -2,7 +2,7 @@ package com.rafael.curso.factory.simple;
 
 
 import com.rafael.curso.factory.simple.factory.IPhoneSimpleFactory;
-import com.rafael.curso.factory.simple.factory.enums.IPhoneType;
+import com.rafael.curso.factory.simple.model.enums.IPhoneType;
 import com.rafael.curso.factory.simple.model.IPhone;
 
 public class Client {

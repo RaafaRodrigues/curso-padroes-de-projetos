@@ -1,4 +1,4 @@
-package com.rafael.curso.factory.halfsimple.factory.enums;
+package com.rafael.curso.factory.simple.model.enums;
 
 
 public enum IPhoneType {

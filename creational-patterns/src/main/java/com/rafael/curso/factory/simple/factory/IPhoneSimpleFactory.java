@@ -1,6 +1,6 @@
 package com.rafael.curso.factory.simple.factory;
 
-import com.rafael.curso.factory.simple.factory.enums.IPhoneType;
+import com.rafael.curso.factory.simple.model.enums.IPhoneType;
 import com.rafael.curso.factory.simple.model.*;
 
 public class IPhoneSimpleFactory {

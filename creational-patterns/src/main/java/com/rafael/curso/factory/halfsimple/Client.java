@@ -3,7 +3,7 @@ package com.rafael.curso.factory.halfsimple;
 import com.rafael.curso.factory.halfsimple.factory.IPhone11Factory;
 import com.rafael.curso.factory.halfsimple.factory.IPhoneFactory;
 import com.rafael.curso.factory.halfsimple.factory.IPhoneXFactory;
-import com.rafael.curso.factory.halfsimple.factory.enums.IPhoneType;
+import com.rafael.curso.factory.halfsimple.model.enums.IPhoneType;
 import com.rafael.curso.factory.halfsimple.model.IPhone;
 
 public class Client {

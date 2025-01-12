@@ -1,4 +1,4 @@
-package com.rafael.curso.factory.simple.factory.enums;
+package com.rafael.curso.abstractfactory.apple.model.enums;
 
 
 public enum IPhoneType {
